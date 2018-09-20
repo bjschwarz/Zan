@@ -1,7 +1,9 @@
 # Zan theme for Visual Studio Code
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Designed to be easy on the eyes in low light environments.
+
+Based off of [franksn](http://dotshare.it/dots/713/) colors
+
+![Preview Zan theme](https://github.com/bjschwa2/Zan/raw/master/example.jpg)
 
 **Enjoy!**
