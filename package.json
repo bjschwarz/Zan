@@ -1,0 +1,22 @@
+{
+    "name": "zan",
+    "displayName": "Zan",
+    "description": "Easy on the eyes",
+    "version": "0.0.1",
+    "publisher": "Zan",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zan-color-theme.json"
+            }
+        ]
+    }
+}
