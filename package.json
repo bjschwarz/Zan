@@ -1,12 +1,28 @@
 {
     "name": "zan",
     "displayName": "Zan",
-    "description": "Easy on the eyes",
+    "description": "easy on the eyes in low light environments",
     "version": "0.0.1",
-    "publisher": "Zan",
+    "publisher": "bjschwa2",
+    "repository": {
+		"type": "git",
+		"url": "git+https://github.com/bjschwa2/Zan.git"
+    },
+    "author": "Bradley Schwarz <bjschwa2@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+		"url": "https://github.com/bjschwa2/Zan/issues"
+	},
+	"homepage": "https://github.com/bjschwa2/Zan#readme",
     "engines": {
         "vscode": "^1.27.0"
     },
+    "icon": "icon.png",
+    "keywords": [
+		"vscode",
+        "theme",
+        "dark"
+	],
     "categories": [
         "Themes"
     ],
